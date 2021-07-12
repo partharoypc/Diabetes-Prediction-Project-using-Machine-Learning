@@ -1,6 +1,6 @@
-# Diabetes-Prediction-Project
+# Diabetes Prediction Project using Machine Learning
 
-
+[![thumbnail](thumbnail.png)]
 
 ## Project Overview :
 In this project I have predicted the chances of diabetes using diabetes dataset.This dataset has been collected from Kaggle. This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
