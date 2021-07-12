@@ -43,6 +43,8 @@ Following steps I have taken to apply machine learning models:
 - Feature Selection and Data Standardization
 - Model Evaluation
 
+![Data Visualization](visulization.PNG)
+
 ## Model Evaluation :
 I have done model evaluation based on following sklearn metric.
 - Loading Logistic Regression Model For Predictions
@@ -50,44 +52,6 @@ I have done model evaluation based on following sklearn metric.
 
 ## Results :
 The result of Logistic Regression and SVM Model with or without feature selection is shown below.
+![Result](result.PNG)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
