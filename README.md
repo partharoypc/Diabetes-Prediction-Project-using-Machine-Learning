@@ -1,6 +1,6 @@
 # Diabetes Prediction Project using Machine Learning
 
-[![thumbnail](thumbnail.png)]
+![thumbnail](thumbnail.png)
 
 ## Project Overview :
 In this project I have predicted the chances of diabetes using diabetes dataset. This information was gathered via Kaggle. The sign and symptom data of newly diabetic or would-be diabetic patients are included in this dataset.
@@ -9,11 +9,11 @@ There are several medical predictor variables in the dataset, as well as one tar
 
 ## Installations :
 This project requires Python 3.x and the following Python libraries should be installed to get the project started:
-- Numpy
-- Pandas
-- matplotlib
-- scikit-learn
-- seaborn
+-[x] Numpy
+-[x] Pandas
+-[x] matplotlib
+-[x] scikit-learn
+-[x] seaborn
 
 ### About Data
 This dataset provides data on newly diabetic or diabetic-in-waiting individuals' signs and symptoms. This information is gathered as a numerical value.
@@ -37,11 +37,11 @@ The dataset consist of total **08** features and one target variable named Outco
 ## Steps to be Followed :
 Following steps I have taken to apply machine learning models:
 
-- Importing Essential Libraries.
-- Data Preparation & Data Cleaning.
-- Data Visualization
-- Feature Selection and Data Standardization
-- Model Evaluation
+-[x] Importing Essential Libraries.
+-[x] Data Preparation & Data Cleaning.
+-[x] Data Visualization
+-[x] Feature Selection and Data Standardization
+-[x] Model Evaluation
 
 ![Data Visualization](visulization.PNG)
 
