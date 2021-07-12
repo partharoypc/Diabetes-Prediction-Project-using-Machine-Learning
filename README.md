@@ -3,9 +3,9 @@
 [![thumbnail](thumbnail.png)]
 
 ## Project Overview :
-In this project I have predicted the chances of diabetes using diabetes dataset.This dataset has been collected from Kaggle. This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
+In this project I have predicted the chances of diabetes using diabetes dataset. This information was gathered via Kaggle. The sign and symptom data of newly diabetic or would-be diabetic patients are included in this dataset.
 
-The datasets consists of several medical predictor variables and one target variable, class. Predictor variables includes the Age, gender, Glucose, BMI and so on.
+There are several medical predictor variables in the dataset, as well as one target variable, Outcome. Age, gender, glucose, BMI, and other predictor variables are examples of predictor variables.
 
 ## Installations :
 This project requires Python 3.x and the following Python libraries should be installed to get the project started:
@@ -16,7 +16,7 @@ This project requires Python 3.x and the following Python libraries should be in
 - seaborn
 
 ### About Data
-This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.the all data is collectes as a numberic value .
+This dataset provides data on newly diabetic or diabetic-in-waiting individuals' signs and symptoms. This information is gathered as a numerical value.
 
 #### Features of the dataset
 The dataset consist of total **08** features and one target variable named Outcome.
